@@ -82,7 +82,7 @@ do {
   } else break;
 } while (true);
 
-// console.log("1234".startsWith("1234"));
+console.log("1234".startsWith("1234"));
 // const result = "123456789".slice(2, 4);
 // console.log("123456789".slice(undefined, 4));
 // console.log("123456789".substring(2, 40));
